@@ -1,0 +1,8 @@
+appdirs==1.4.0
+jsonify==0.5
+packaging==16.8
+pyaml==16.12.2
+pyparsing==2.1.10
+PyYAML==3.12
+requests==2.13.0
+six==1.10.0
